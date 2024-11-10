@@ -116,9 +116,9 @@ margin-bottom: 10px;
 footer{
     text-align: center;
     text-transform: uppercase;
-    background-color: #333;
+    background-color: rgb(114, 128, 139);
     padding: 1px;
-    color: white;
+    color: black;
 }
 
 @media (max-width: 786px){
